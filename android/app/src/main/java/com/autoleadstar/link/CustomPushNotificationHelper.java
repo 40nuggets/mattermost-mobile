@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package com.autoleadstar.link;
 
 import android.app.Notification;
 import android.app.NotificationChannel;

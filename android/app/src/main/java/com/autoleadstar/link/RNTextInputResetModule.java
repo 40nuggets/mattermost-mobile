@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package com.autoleadstar.link;
 
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;

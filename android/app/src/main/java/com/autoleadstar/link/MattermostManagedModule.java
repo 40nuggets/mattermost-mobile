@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package com.autoleadstar.link;
 
 import android.app.Activity;
 import android.content.Context;

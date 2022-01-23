@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package com.autoleadstar.link;
 
 import android.content.Context;
 import android.content.RestrictionsManager;
@@ -48,7 +48,7 @@ private final ReactNativeHost mReactNativeHost =
   new ReactNativeHost(this) {
     @Override
     public boolean getUseDeveloperSupport() {
-      return BuildConfig.DEBUG;
+      return false;
     }
 
     @Override
